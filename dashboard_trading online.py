@@ -3,7 +3,6 @@ import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 from alpha_vantage.timeseries import TimeSeries
-from dotenv import load_dotenv
 from prophet import Prophet
 import os
 
